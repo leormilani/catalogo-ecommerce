@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ea580c; /* Laranja varejo / alta conversão */
+  --color-secondary: #18181b; /* Zinc escuro moderno */
+  --color-accent: #10b981; /* Verde sucesso/desconto */
+}
+
+html {
+  scroll-behavior: smooth;
+}
